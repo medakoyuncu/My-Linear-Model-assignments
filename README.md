@@ -50,5 +50,5 @@ To analyze the relationship between working hours and demographic factors (Age, 
 
 ---
 
-## 🛠️ R Functions Used
+## R Functions Used :)
 `lm()`, `aov()`, `TukeyHSD()`, `model.matrix()`, `qr()`, `solve()`, `step()`, `AIC()`, `bptest()`, `dwtest()`, `shapiro.test()`.
